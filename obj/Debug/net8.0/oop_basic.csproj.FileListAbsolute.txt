@@ -1,0 +1,17 @@
+D:\oop\oop_basic\bin\Debug\net8.0\oop_basic.exe
+D:\oop\oop_basic\bin\Debug\net8.0\oop_basic.deps.json
+D:\oop\oop_basic\bin\Debug\net8.0\oop_basic.runtimeconfig.json
+D:\oop\oop_basic\bin\Debug\net8.0\oop_basic.dll
+D:\oop\oop_basic\bin\Debug\net8.0\oop_basic.pdb
+D:\oop\oop_basic\obj\Debug\net8.0\oop_basic.GeneratedMSBuildEditorConfig.editorconfig
+D:\oop\oop_basic\obj\Debug\net8.0\oop_basic.AssemblyInfoInputs.cache
+D:\oop\oop_basic\obj\Debug\net8.0\oop_basic.AssemblyInfo.cs
+D:\oop\oop_basic\obj\Debug\net8.0\oop_basic.csproj.CoreCompileInputs.cache
+D:\oop\oop_basic\obj\Debug\net8.0\oop_basic.dll
+D:\oop\oop_basic\obj\Debug\net8.0\refint\oop_basic.dll
+D:\oop\oop_basic\obj\Debug\net8.0\oop_basic.pdb
+D:\oop\oop_basic\obj\Debug\net8.0\oop_basic.genruntimeconfig.cache
+D:\oop\oop_basic\obj\Debug\net8.0\ref\oop_basic.dll
+D:\oop\oop_basic\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\oop\oop_basic\obj\Debug\net8.0\oop_basic.csproj.AssemblyReference.cache
+D:\oop\oop_basic\obj\Debug\net8.0\oop_basic.csproj.Up2Date
